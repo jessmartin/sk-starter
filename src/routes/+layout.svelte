@@ -3,8 +3,8 @@
 </script>
 
 <nav class="p-2">
-  <a href="/">Home</a>
-  <a href="/about">About</a>
+  <a class="hover:underline" href="/">Home</a>
+  <a class="hover:underline" href="/fe">Front-end Only</a>
 </nav>
 
 <div class="p-2">
