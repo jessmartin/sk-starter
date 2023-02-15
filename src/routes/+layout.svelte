@@ -2,9 +2,11 @@
   import '../app.css'
 </script>
 
-<nav>
+<nav class="p-2">
   <a href="/">Home</a>
   <a href="/about">About</a>
 </nav>
 
-<slot />
+<div class="p-2">
+  <slot />
+</div>
